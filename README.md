@@ -3,3 +3,5 @@ The Gemini Landmark Description App is an innovative tool that enhances tourist 
 Expected Solutions	Scenario
 so using gen ai we created this as solution.
 Note: to run this code you will require API-Keys in .env file
+To run enter following in the command prompt:
+streamlit run filename.py

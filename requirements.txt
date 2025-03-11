@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+Pillow
+wikipedia-api
+requests
+python-dotenv
+gtts
